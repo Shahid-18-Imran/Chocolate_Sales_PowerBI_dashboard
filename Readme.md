@@ -26,7 +26,7 @@ It helps track revenue trends, product popularity, and country-wise contribution
 ---
 
 ### 🖼️ Dashboard Preview
-![Chocolate Sales Dashboard](./Dashboard_Snapshot.jpg)
+![Chocolate Sales Dashboard](./Dashboard_Snapshot.JPG)
 
 ---
 
@@ -41,3 +41,4 @@ It helps track revenue trends, product popularity, and country-wise contribution
 **Shahid**  
 
 *Power BI | Excel Automation | Data Visualization | Reporting*
+
